@@ -1,9 +1,5 @@
 ---
 title: "Initial Post"
-categories:
-  - Me
-tags:
-  - Me
 ---
 
 # Hello
