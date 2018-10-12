@@ -1,5 +1,7 @@
 ---
 title: "Initial Post"
+categories: 
+  - General
 ---
 
 # Hello
