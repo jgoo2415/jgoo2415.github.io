@@ -1,5 +1,5 @@
 ---
-title: "Initial Post"
+title: "RL 1: Initial Post"
 categories: 
   - General
 ---

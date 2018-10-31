@@ -1,7 +1,8 @@
 ---
-title: "Relearning Python: Introduction"
+title: "Relearning Python"
 categories: 
   - Python
+  - Relearning Python
 tags:
   - best practice
   - structure
