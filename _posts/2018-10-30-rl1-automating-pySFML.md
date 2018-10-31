@@ -8,8 +8,6 @@ tags:
   - build
 ---
 
-# Context
-
 [SFML](https://www.sfml-dev.org/index.php) is a great multi-media library that is written in C++. [pySFML](https://github.com/Sonkun/python-sfml) is
 a Cython binding for SFML and it essentially allows Python code to utilize SFML. At the current time, pySFML has kind of been abandoned
 and there isn't much documentation on how to properly build the project. PySFML is also a dependency of my oldish Python game framework -- built in 2012.
