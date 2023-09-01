@@ -103,7 +103,7 @@ author:
   name             : "Juna Goo"
   avatar           : "/assets/images/waffle.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : ""
+  location         : "Boise, ID"
   email            : 
   uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
