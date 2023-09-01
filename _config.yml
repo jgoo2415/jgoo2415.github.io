@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weekly Waffle"
+title                    : ""
 title_separator          : "-"
-name                     : "Jake Waffle"
-description              : "A portfolio of my work and explorations."
-url                      : "https://jawaff.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Juna Goo"
+description              : "A portfolio of my work"
+url                      : "https://jgoo2415.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jawaff/jawaff.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jgoo2415/jgoo2415.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500X300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jake Waffle"
+  name             : "Juna Goo"
   avatar           : "/assets/images/waffle.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I scupt my art with Java, C/C++ and Python."
-  location         : "Pullman, WA"
+  bio              : ""
+  location         : ""
   email            : 
   uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jawaff"
+  github           : "jgoo2415"
   gitlab           :
   google_plus      :
   keybase          :
